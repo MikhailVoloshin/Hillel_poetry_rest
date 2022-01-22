@@ -10,4 +10,7 @@ __pycache__/
 # SQLite
 *sqlite*
 
+# Folders and files
+.python-version
+dist/
 
