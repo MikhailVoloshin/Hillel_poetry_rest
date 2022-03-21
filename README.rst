@@ -30,6 +30,6 @@ export POETRY_PYPI_TOKEN_PYPI=my-token (Just as example)
 
 # Export poetry dependency one by one or not XD
 
-poetry add django flake8 ...... 
+poetry install django flake8 ...... 
 
 # Я тут на русском не все могу сформулировать , я думаю дальше они сами разберуться (воображаемые сотрудники или же обычные зеваки)
